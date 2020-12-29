@@ -1,0 +1,32 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [{
+            "id": 1,
+            "title": "社会热点",
+            "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView/1/w/64/h/64"
+        }, {
+            "id": 2,
+            "title": "手绘",
+            "imgUrl": "//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView/1/w/64/h/64"
+        }],
+        
+        "articleList": [{
+            "id": 1,
+            "title": "丰子恺：此境风月好，自是一期一会",
+            "desc": "上世纪前半叶，先后经历社稷动荡，军阀混战，抗日战争的人们在黑暗中禹禹前行，彷徨无助。但总有人在那暗淡的日子里用自己的方式举起微弱的火炬，前仆后继"
+        }, {
+            "id": 2,
+            "title": "丰子恺：此境风月好，自是一期一会",
+            "desc": "上世纪前半叶，先后经历社稷动荡，军阀混战，抗日战争的人们在黑暗中禹禹前行，彷徨无助。但总有人在那暗淡的日子里用自己的方式举起微弱的火炬，前仆后继"
+        }, {
+            "id": 3,
+            "title": "丰子恺：此境风月好，自是一期一会",
+            "desc": "上世纪前半叶，先后经历社稷动荡，军阀混战，抗日战争的人们在黑暗中禹禹前行，彷徨无助。但总有人在那暗淡的日子里用自己的方式举起微弱的火炬，前仆后继"
+        }, {
+            "id": 4,
+            "title": "丰子恺：此境风月好，自是一期一会",
+            "desc": "上世纪前半叶，先后经历社稷动荡，军阀混战，抗日战争的人们在黑暗中禹禹前行，彷徨无助。但总有人在那暗淡的日子里用自己的方式举起微弱的火炬，前仆后继"
+        }]
+    }
+}
